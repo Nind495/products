@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+ <DATAPACKET Version="2.0">
+ <METADATA>
+     <FIELDS>
+         <FIELD attrname="idproduct" fieldtype="i4"/>
+         <FIELD attrname="Nnomer" fieldtype="i4"/>
+         <FIELD attrname="name" fieldtype="string" WIDTH="255"/>
+         <FIELD attrname="price" fieldtype="r8"/>
+     </FIELDS>
+     <PARAMS CHANGE_LOG="1 0 4"/>
+ </METADATA>
+ <ROWDATA>
+    <ROW RowState="4" idproduct="1" Nnomer="45685" name="хлеб" price="36.30"/>
+    <ROW RowState="4" idproduct="2" Nnomer="49556" name="молоко" price="45.50"/>
+
+ </ROWDATA>
+ </DATAPACKET>

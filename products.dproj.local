@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.960,=C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.350,=C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.348,C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\form_product.pas=C:\Users\Nikolay\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.062,=C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.191,C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\DataModule.pas=C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.191,C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\DataModule.dfm=C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.664,C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\Unit1.pas=C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\Add_product_form.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.836,=C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.664,C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\Unit1.dfm=C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\Add_product_form.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.267,C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\Login_form.pas=C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\form_product.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.006,C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\product_form.dfm=C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.006,C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\product_form.pas=C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\products.dproj=C:\Users\Nikolay\Documents\RAD Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.001,=C:\Users\Nikolay\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.267,C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\Login_form.dfm=C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\form_product.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.348,C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\form_product.dfm=C:\Users\Nikolay\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017.09.13 15:31:04.271,=C:\Users\Nikolay\Documents\RAD Studio\Projects\Products\test.xml</Transaction>
+  </Transactions>
+</BorlandProject>
